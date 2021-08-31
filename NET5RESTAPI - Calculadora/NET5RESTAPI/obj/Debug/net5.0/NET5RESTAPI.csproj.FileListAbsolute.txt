@@ -1,0 +1,58 @@
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\appsettings.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.exe
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.deps.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.runtimeconfig.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.runtimeconfig.dev.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\ref\NET5RESTAPI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.pdb
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.csproj.AssemblyReference.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.AssemblyInfoInputs.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.AssemblyInfo.cs
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.csproj.CoreCompileInputs.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\staticwebassets\NET5RESTAPI.StaticWebAssets.Manifest.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\staticwebassets\NET5RESTAPI.StaticWebAssets.xml
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\scopedcss\bundle\NET5RESTAPI.styles.css
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.RazorTargetAssemblyInfo.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.csproj.CopyComplete
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\ref\NET5RESTAPI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.pdb
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.genruntimeconfig.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\appsettings.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.exe
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.deps.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.runtimeconfig.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.runtimeconfig.dev.json
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\ref\NET5RESTAPI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\NET5RESTAPI.pdb
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.csproj.AssemblyReference.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.AssemblyInfoInputs.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.AssemblyInfo.cs
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.csproj.CoreCompileInputs.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\staticwebassets\NET5RESTAPI.StaticWebAssets.Manifest.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\staticwebassets\NET5RESTAPI.StaticWebAssets.xml
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\scopedcss\bundle\NET5RESTAPI.styles.css
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.RazorTargetAssemblyInfo.cache
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.csproj.CopyComplete
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\ref\NET5RESTAPI.dll
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.pdb
+E:\Project C#\NET5 C#\C-.NET5\NET5RESTAPI - Calculadora\NET5RESTAPI\obj\Debug\net5.0\NET5RESTAPI.genruntimeconfig.cache
